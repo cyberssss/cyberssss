@@ -29,10 +29,10 @@
 <a href="https://t.me/carol_helo">
     <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@carol_helo&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
 </a>
-<a href="https://www.instagram.com/carol_helloo/">
+<a href="https://www.instagram.com/dhanushrajeshr/">
     <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@carol_helloo&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
-<a href="mailto:carol42.helo@gmail.com">
+<a href="mailto:cyberaz007@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 </br>
