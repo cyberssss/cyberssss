@@ -15,25 +15,25 @@
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/Carol42">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Cyberaz007">
 </a>
 <a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Cyberaz007&color=000000&style=flat&logo=codepen"  />
 </a>
 <a href="https://twitter.com/carol_heloo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@Carol_Heloo">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Cyberaz007_Heloo?style=social&label=@Cyberaz007_Heloo">
 </a>
 <a href="https://linkedin.com/in/carol42">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=flat&logo=linkedin" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Cyberaz007&color=0A66C2&style=flat&logo=linkedin" />
 </a>
 <a href="https://t.me/carol_helo">
-    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@carol_helo&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
+    <img alt="link to my Telegram" src="https://img.shields.io/static/v1?label&message=@Cyberaz007_helo&color=26A5E4&style=flat&logo=telegram&logoColor=whitesmoke" />
 </a>
 <a href="https://www.instagram.com/dhanushrajeshr/">
-    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@carol_helloo&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=@Cyberaz007_helloo&color=7E3ACE&style=flat&logo=instagram&logoColor=whitesmoke" />
 </a>
 <a href="mailto:cyberaz007@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=Cyberaz007@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 </br>
 
