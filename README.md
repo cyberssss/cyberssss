@@ -3,8 +3,8 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+root>Cyber_Rajesh_Az;Cybersecurity;EthicalHacking;Pentesting;Computer+Engineering+Student;;MachineLearning;Algorithms;Hex(TEST)Binery;DeepCode'sDeepLearning;AndroidDevelopers;SudoDevelopers;Brazilian+Front-end+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42);Python3<*>Lover>...Print;CodeBash;Data+Science+Certification;CEH+Certified+Ethical+Hacker;
-DCA+Certification;Certified+Information+Systems+Security+Professional+(CISSP)...;Certified+Information+Systems+Auditor+(CISA)...;Certified+Information+Security+Manager+(CISM)...;CompTIA+Security...;Certified+Ethical+Hacker+(CEH)...;GIAC+Security+Essentials+Certification+(GSEC)...;
-Systems+Security+Certified+Practitioner+(SSCP);"alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover, Python Lover"></a>
+DCA+Certification;Certified+Information+Systems+Security+Professional+(CISSP)...;Certified+Information+Systems+Auditor(CISA)...;Certified+Information+Security+Manager+(CISM);CompTIA+Security;Certified+Ethical+Hacker+(CEH);GIAC+Security+Essentials+Certification+(GSEC);
+Systems+Security+Certified+Practitioner+(SSCP)"alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover, Python Lover"></a>
 </div>
 
 <table align="right">
