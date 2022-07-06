@@ -8,7 +8,7 @@ Certified+Information+Security+Manager+(CISM)...;
 CompTIA+Security...;
 Certified+Ethical+Hacker+(CEH)...;
 GIAC+Security+Essentials+Certification+(GSEC)...;
-Systems+Security+Certified+Practitioner+(SSCP)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover, Python Lover"></a>
+Systems+Security+Certified+Practitioner+(SSCP)"alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover, Python Lover"></a>
 </div>
 
 <table align="right">
