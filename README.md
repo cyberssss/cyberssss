@@ -2,8 +2,8 @@
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+root>Cyber_Rajesh_Az;Cybersecurity...;EthicalHacking...;Pentesting...;
-MachineLearning;Algorithms;Computer+Engineering+Student;Brazilian+Front-end+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42);Python<*>Lover>...Print;CodeBash" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover, Python Lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+root>Cyber_Rajesh_Az;Cybersecurity...;EthicalHacking...;Pentesting...
+;MachineLearning;Algorithms;Computer+Engineering+Student;Brazilian+Front-end+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42);Python<*>Lover>...Print;CodeBash" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover, Python Lover"></a>
 </div>
 
 <table align="right">
